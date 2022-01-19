@@ -7,11 +7,7 @@ type NumberOption struct {
 	MarkNumberOne bool
 }
 
-func Number(str string) string {
-	return ""
-}
-
-func NumberArray(num int, opt ...NumberOption) []string {
+func Number(num int, opt ...NumberOption) []string {
 	if num == 0 {
 		return []string{"영"}
 	}
