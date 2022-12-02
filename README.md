@@ -5,7 +5,7 @@
 ## 설치
 아래 명령어를 프로젝트 최상단에 입력하여 라이브러리를 설치합니다.
 ```bash
-go get github.com/Neoration/korean
+go get github.com/KitsuneTown/korean
 ```
 ## 사용법
 ### korean.Text()
